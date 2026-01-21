@@ -11,6 +11,7 @@
 - I'm open to collaborating on Open Source Projects
 
 **Followers:** ![GitHub followers](https://img.shields.io/github/followers/onitshubham15?label=Followers&style=for-the-badge)
+**Git Stats** ![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=onitshubham14&show_icons=true&theme=radical)
 
 ## 🌐 Socials:
 
